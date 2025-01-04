@@ -1,2 +1,2 @@
 # Vignelli
-Massimo Vignelli
+Massimo Vignelli Design Essay
