@@ -159,7 +159,7 @@ overflow: hidden;
   }
 
   .legacy-image {
-    width: 50%;
+    width: 70%;
     height: auto;
     display:block;
     margin-left: auto;
@@ -204,7 +204,7 @@ padding-bottom: 50px;
   summary::-webkit-details-marker {
     display: none;
   }
-  
+
   .fade-in {
 	font-size: 100px;
 	color: white;
@@ -218,8 +218,6 @@ padding-bottom: 50px;
 	opacity: 1.00;
 }
 
-
-  
  
 
   @media (max-width:768px) {
